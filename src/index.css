@@ -1,0 +1,36 @@
+ .note {
+     width: 250px;
+ }
+ #app {
+     padding: 10px;
+ }
+p.bg-info{
+    font-size: 12px;
+}
+ div.panel-heading {
+     color: #000!important;
+ }
+ div.panel {
+     margin-left: 20px;
+     width: 400px;
+ }
+ .blog-items-parent {
+     margin-top: 5px;
+ }
+ .blog-items {
+     background-color: #ebebeb;
+     margin-top: 10px;
+     padding: 5px;
+     border-radius: 5px;
+ }
+ ul.blog-comments {
+     border: 1px solid #ebebeb;
+     background-color: #eadbcc;
+ }
+ ul.blog-comments li {
+     font-family: 'Courier New';
+     list-style-type: none;
+     padding: 2px;
+     border-bottom: 1px dotted #ccc;
+     margin-left: -10px;
+ }
